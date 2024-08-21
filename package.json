@@ -1,0 +1,17 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "A WebSocket server for a collaborative coding platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "socket.io": "^4.7.2",
+    "ws": "^8.18.0"
+  },
+  "author": "Akshat Trivedi",
+  "license": "ISC"
+}
